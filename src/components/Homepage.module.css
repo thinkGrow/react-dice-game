@@ -1,0 +1,31 @@
+.homepage {
+  padding: 180px 120px 154px;
+  display: flex;
+  justify-content: center;
+}
+
+.homepage im {
+  max-height: 522px;
+  max-width: 649px;
+}
+
+.homepage content {
+  display: flex;
+  max-height: 188px;
+  max-width: 528px;
+  justify-content: end;
+  /* align-items: center; */
+  align-items: end;
+  /* justify-content: space-between; */
+  padding: 0 167px;
+}
+
+.homepage h1 {
+  font-size: 96px;
+}
+
+.homepage button {
+  min-width: 220px;
+  min-height: 44px;
+  justify-content: end;
+}
